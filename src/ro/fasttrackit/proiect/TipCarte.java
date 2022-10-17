@@ -4,5 +4,6 @@ public enum TipCarte {
     FICTIUNE,
     ISTORIE,
     ECONOMIE,
-    STIINTE
+    STIINTE;
+
 }
